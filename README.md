@@ -6,7 +6,7 @@
 # Masamitsu Bando / 坂東 将光
 
 [近畿大学工業高等専門学校](https://www.ktc.ac.jp)<br>
-総合システム工学科 制御情報コース 講師
+総合システム工学科 制御情報コース 准教授
 
 - [個人サイト](https://alice.helixcode.net/~bando/)
 - [量子情報研究室](https://alice.helixcode.net/~bando/Lab/)
