@@ -1,7 +1,9 @@
 [ ![masabando](https://komarev.com/ghpvc/?username=masabando)
 ](https://github.com/masabando/masabando/)
 [![](https://img.shields.io/github/followers/masabando?label=follow&logo=github&style=flat)
-](https://github.com/masabando)
+](https://github.com/masabando)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masabando&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Masamitsu Bando / 坂東 将光
 
